@@ -36,11 +36,16 @@ A continuacion se muestran los planos de la Herramienta fijadora de marcador dis
 Codigo Contenido en el archivo Module1
 
 ## 7. Videos Simulacion e Implementacion Robot Real
-
+Plano paralelo al suelo:
 
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/faa2da19-8247-41e2-bcec-e54c9c44983b
 
 
 
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/6fe1bcc4-57a2-4a25-ad2e-d74ae39c21be
+
+Plano inclinado:
+
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/b9109dec-ddc8-41ff-a8aa-b8f28abca506
+
 
