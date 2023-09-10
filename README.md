@@ -12,6 +12,7 @@ Antes de cargar el codigo se realiza la calibracion de la herramienta fisica usa
 
 ## 3. Ubicacion de Elementos en Planta
 ![UbicacionObjetosPlanta](https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/89788107-3a91-473a-95f8-0f95eda5c5a5)
+
 En el centro se puede ver el robot Manipulador IRB 140 , y ubicado diagonalmente a su izquierda se encuentra el pastel o en este caso Workobject, sobre el cual va a trabajar.
 
 
@@ -32,9 +33,13 @@ Con estos requerimientos se penso primero en usar tubos de PVC por ser faciles d
 
 A continuacion se muestran los planos de la Herramienta fijadora de marcador diseñada para esta practica.
 ## 6. Codigo Rapid
-Codigo Contenido en la Carpeta CodigoRapidLab1
+Codigo Contenido en el archivo Module1
 
 ## 7. Videos Simulacion e Implementacion Robot Real
+
+
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/faa2da19-8247-41e2-bcec-e54c9c44983b
+
 
 
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/6fe1bcc4-57a2-4a25-ad2e-d74ae39c21be
