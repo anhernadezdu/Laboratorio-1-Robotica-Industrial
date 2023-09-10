@@ -33,9 +33,9 @@ Con estos requerimientos se penso primero en usar tubos de PVC por ser faciles d
 
 A continuacion se muestran los planos de la Herramienta fijadora de marcador diseñada para esta practica.
 
-https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Herramienta_Ensamble.pdf
-https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Centro%20de%20gravedad.pdf
-https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Brida.pdf
+![Ensmable de la herremienta](https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Herramienta_Ensamble.pdf)
+![Centro de masa de la herramienta](https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Centro%20de%20gravedad.pdf)
+![Brida de impresion 3D](https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Brida.pdf)
 
 ## 6. Codigo Rapid
 Codigo Contenido en el archivo Module1
