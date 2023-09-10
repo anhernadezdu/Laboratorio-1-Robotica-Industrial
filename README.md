@@ -32,6 +32,11 @@ Para el diseño de la herramienta de trabajo se tuvieron en cuenta los siguiente
 Con estos requerimientos se penso primero en usar tubos de PVC por ser faciles de conseguir y se puede elaboar deforma modular la herremienta, asi en el mercado existen diferentes acoples que se puden usar en casos necesarios dando una versartilidad de armado sensilla. Despues de esto se consiguio un marcador borrable que seria la base de diseño, se consiguio uno de la marca Expo, el cual su diametro de donde se coge es de aproximadamente 18 mm dando a seleccionar un tubo de PVC de 3/4 in de 2.8 MP que era con el que se tenia menor juego posible pero al tenerse un diametro tan pequeno consegiir una brida no era posible por locual se opto por generar un diseño en inventor con agujeros con dimensiones apropiadas para el deflector final. Al revisar esto se encontro que la brida necesaria debia tener un tubo de acople pero el diametro exterior de este era de 26 mm dado que no se deseaba obstaculizar a los tornillos con cabeza bristol, con esto se penso en como acoplar los tubos de forma sencilla y que la construcción fuera solida obteniendo como mejor opción una rosca interna en la brida y una rosca de acople con el tubo para poder desarmar facilmente y ajustes sencillos
 
 A continuacion se muestran los planos de la Herramienta fijadora de marcador diseñada para esta practica.
+
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Herramienta_Ensamble.pdf
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Centro%20de%20gravedad.pdf
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/blob/main/Brida.pdf
+
 ## 6. Codigo Rapid
 Codigo Contenido en el archivo Module1
 
