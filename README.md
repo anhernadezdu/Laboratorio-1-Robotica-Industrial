@@ -45,12 +45,16 @@ Plano paralelo al suelo:
 
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/faa2da19-8247-41e2-bcec-e54c9c44983b
 
-
-
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/6fe1bcc4-57a2-4a25-ad2e-d74ae39c21be
+
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70998067/8773ccb0-c7ef-497d-91fa-db204df54e28
+
 
 Plano inclinado:
 
 https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70985250/b9109dec-ddc8-41ff-a8aa-b8f28abca506
+
+https://github.com/anhernadezdu/Laboratorio-1-Robotica-Industrial/assets/70998067/e056ca79-5e5c-4d4e-b4dd-64d334cf92d2
+
 
 
